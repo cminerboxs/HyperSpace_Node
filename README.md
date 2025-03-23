@@ -28,7 +28,7 @@ To download and install **HyperSpace Node**, use the provided script. Follow the
 ### 3️⃣ Run the Installation Script
 Execute the following command:
 ```bash
-sudo bash -c 'chmod +x download-aios.sh && ./download-aios.sh'
+sudo bash -c 'chmod +x install-aios && ./install-aios'
 ```
 
 ### 4️⃣ Select a Model
