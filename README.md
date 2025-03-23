@@ -69,7 +69,9 @@ aios-cli hive points
 
 ---
 
-📢 **Follow for Updates:**
-- Twitter: [https://x.com/Reza_Cryptoo](https://x.com/Reza_Cryptoo)
-- Telegram: [https://t.me/Rezaa_Cryptoo](https://t.me/Rezaa_Cryptoo)
+### Getting Help
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/airdropzenith_)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/airdropzenith)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/airdropzenith)
+[![Direct Contact](https://img.shields.io/badge/Telegram-Direct%20Contact-green?style=for-the-badge&logo=telegram)](https://t.me/cminerbox)
 
