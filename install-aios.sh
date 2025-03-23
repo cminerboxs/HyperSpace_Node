@@ -1,14 +1,13 @@
 #!/bin/bash
 
-# Header section
-echo"${GREEN}# Header Section${NC}"
-echo"${GREEN}Cminerbox${NC}"
-echo"${GREEN} _____           _                 _               ${NC}"
-echo"${GREEN}/  __ \         (_)               | |              ${NC}"
-echo"${GREEN}| /  \/_ __ ___  _ _ __   ___ _ __| |__   _____  __${NC}"
-echo"${GREEN}| |   | '_ ` _ \| | '_ \ / _ \ '__| '_ \ / _ \ \/ /${NC}"
-echo"${GREEN}| \__/\ | | | | | | | | |  __/ |  | |_) | (_) >  < ${NC}"
-echo"${GREEN} \____/_| |_| |_|_|_| |_|\___|_|  |_.__/ \___/_/\_\\${NC}"
+# Header section with blocky ASCII art for Cminerbox
+echo "# Header Section"
+echo "${GREEN} _____           _                 _               ${NC}"
+echo "${GREEN}/  __ \         (_)               | |              ${NC}"
+echo "${GREEN}| /  \/_ __ ___  _ _ __   ___ _ __| |__   _____  __${NC}"
+echo "${GREEN}| |   | '_ ` _ \| | '_ \ / _ \ '__| '_ \ / _ \ \/ /${NC}"
+echo "${GREEN}| \__/\ | | | | | | | | |  __/ |  | |_) | (_) >  < ${NC}"
+echo "${GREEN} \____/_| |_| |_|_|_| |_|\___|_|  |_.__/ \___/_/\_\\${NC}"
                                                                                                                                                                                                              
 # Display Twitter and Telegram links
 echo "🔹 Follow us on Twitter: https://x.com/airdropzenith_"
