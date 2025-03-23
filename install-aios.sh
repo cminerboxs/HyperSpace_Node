@@ -1,15 +1,13 @@
 #!/bin/bash
 
 # Header Section
-Cminerbox
- _____           _                 _               
-/  __ \         (_)               | |              
-| /  \/_ __ ___  _ _ __   ___ _ __| |__   _____  __
-| |   | '_ ` _ \| | '_ \ / _ \ '__| '_ \ / _ \ \/ /
-| \__/\ | | | | | | | | |  __/ |  | |_) | (_) >  < 
- \____/_| |_| |_|_|_| |_|\___|_|  |_.__/ \___/_/\_\
-                                                                                                                                       
-                                                                         
+echo "  _____           _                 _               
+echo " /  __ \         (_)               | |              
+echo " | /  \/_ __ ___  _ _ __   ___ _ __| |__   _____  __
+echo " | |   | '_ ` _ \| | '_ \ / _ \ '__| '_ \ / _ \ \/ /
+echo " | \__/\ | | | | | | | | |  __/ |  | |_) | (_) >  < 
+echo " \____/_| |_| |_|_|_| |_|\___|_|  |_.__/ \___/_/\_\
+                                                                                                                                                                                                             
 # Display Twitter and Telegram links
 echo "🔹 Follow us on Twitter: @airdropzenith_"
 echo "🔹 Join our Telegram Channel: https://t.me/airdropzenith"
