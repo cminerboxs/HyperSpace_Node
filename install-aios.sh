@@ -1,21 +1,17 @@
 #!/bin/bash
 
-# Define colors
-GREEN='\033[0;32m'
-NC='\033[0m' # No Color
-
-# Print the header section with ASCII art
-echo -e "${GREEN}# Header Section${NC}"
-echo -e "${GREEN}Cminerbox${NC}"
-echo -e "${GREEN} _____           _                 _               ${NC}"
-echo -e "${GREEN}/  __ \         (_)               | |              ${NC}"
-echo -e "${GREEN}| /  \/_ __ ___  _ _ __   ___ _ __| |__   _____  __${NC}"
-echo -e "${GREEN}| |   | '_ ` _ \| | '_ \ / _ \ '__| '_ \ / _ \ \/ /${NC}"
-echo -e "${GREEN}| \__/\ | | | | | | | | |  __/ |  | |_) | (_) >  < ${NC}"
-echo -e "${GREEN} \____/_| |_| |_|_|_| |_|\___|_|  |_.__/ \___/_/\_\\${NC}"
+# Header section
+echo"${GREEN}# Header Section${NC}"
+echo"${GREEN}Cminerbox${NC}"
+echo"${GREEN} _____           _                 _               ${NC}"
+echo"${GREEN}/  __ \         (_)               | |              ${NC}"
+echo"${GREEN}| /  \/_ __ ___  _ _ __   ___ _ __| |__   _____  __${NC}"
+echo"${GREEN}| |   | '_ ` _ \| | '_ \ / _ \ '__| '_ \ / _ \ \/ /${NC}"
+echo"${GREEN}| \__/\ | | | | | | | | |  __/ |  | |_) | (_) >  < ${NC}"
+echo"${GREEN} \____/_| |_| |_|_|_| |_|\___|_|  |_.__/ \___/_/\_\\${NC}"
                                                                                                                                                                                                              
 # Display Twitter and Telegram links
-echo "🔹 Follow us on Twitter: @airdropzenith_"
+echo "🔹 Follow us on Twitter: https://x.com/airdropzenith_"
 echo "🔹 Join our Telegram Channel: https://t.me/airdropzenith"
 
 # Check if script is run as root
