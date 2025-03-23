@@ -22,7 +22,7 @@ To download and install **HyperSpace Node**, use the provided script. Follow the
 
   ```bash
   git clone https://github.com/airdropzenith/HyperSpace-.git
-  cd Hyperspace-
+  cd Hyperspace_AI
   ```
 
 ### 3️⃣ Run the Installation Script
