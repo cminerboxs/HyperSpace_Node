@@ -1,11 +1,6 @@
 #!/bin/bash
 
-# Define colors
-GREEN='\033[0;32m'
-NC='\033[0m' # No Color
-
-# Print the header section with ASCII art
-echo -e "${GREEN}# Header Section${NC}"
+ # Header Section
 echo -e "${GREEN}Cminerbox${NC}"
 echo -e "${GREEN} _____           _                 _               ${NC}"
 echo -e "${GREEN}/  __ \         (_)               | |              ${NC}"
