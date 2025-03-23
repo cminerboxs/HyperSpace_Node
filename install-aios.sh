@@ -1,13 +1,12 @@
 #!/bin/bash
 
  # Header Section
-echo -e "${GREEN}Cminerbox${NC}"
-echo -e "${GREEN} _____           _                 _               ${NC}"
-echo -e "${GREEN}/  __ \         (_)               | |              ${NC}"
-echo -e "${GREEN}| /  \/_ __ ___  _ _ __   ___ _ __| |__   _____  __${NC}"
-echo -e "${GREEN}| |   | '_ ` _ \| | '_ \ / _ \ '__| '_ \ / _ \ \/ /${NC}"
-echo -e "${GREEN}| \__/\ | | | | | | | | |  __/ |  | |_) | (_) >  < ${NC}"
-echo -e "${GREEN} \____/_| |_| |_|_|_| |_|\___|_|  |_.__/ \___/_/\_\\${NC}"
+echo -e " _____           _                 _               "
+echo -e "/  __ \         (_)               | |              "
+echo -e "| /  \/_ __ ___  _ _ __   ___ _ __| |__   _____  __"
+echo -e "| |   | '_ ` _ \| | '_ \ / _ \ '__| '_ \ / _ \ \/ /"
+echo -e "| \__/\ | | | | | | | | |  __/ |  | |_) | (_) >  <"
+echo -e "\____/_| |_| |_|_|_| |_|\___|_|  |_.__/ \___/_/\_\\"
             
 # Display Twitter and Telegram links
 echo "🔹 Follow us on Twitter: @airdropzenith_"
