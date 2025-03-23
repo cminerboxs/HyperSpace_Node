@@ -5,8 +5,8 @@
 
 
 # Display Twitter and Telegram links
-echo "🔹 Follow us on Twitter: @Re"
-echo "🔹 Join our Telegram Channel: https://t.me/Rezaa_Cryptoo"
+echo "🔹 Follow us on Twitter: @airdropzenith_"
+echo "🔹 Join our Telegram Channel: https://t.me/airdropzenith"
 
 # Check if script is run as root
 if [ "$(id -u)" -ne 0 ]; then
